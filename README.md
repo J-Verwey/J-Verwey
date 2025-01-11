@@ -1,4 +1,4 @@
-## Welcome to my profile
+## Welcome to my (public) profile
 
 I am using quantitative methods in financial applications
 - Graduated with an MSc in Finance from Imperial College with Distinction
